@@ -30,6 +30,15 @@
     
 }
 
+.footer_view {
+    background-color: #2C2B2B;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
 .box{
     background-color: #EEE8E8;
     padding: 20px;
