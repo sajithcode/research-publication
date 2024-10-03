@@ -1,0 +1,78 @@
+.nav-body{
+    background-color: #115B84;
+}
+
+.navbar ul li a{
+    color: #fff;
+
+}
+
+.issues h1{
+    font-weight: bold;
+}
+
+.issues a{
+    text-decoration: none;
+    color: #0A58CA;
+    font-weight: bold;
+    
+}
+
+.issues a p{
+
+    font-weight: 400;
+    
+}
+
+.issues > div{
+    /* padding-bottom: 20px; */
+    
+}
+
+.footer{
+    background-color: #2C2B2B;
+    
+}
+
+.box{
+    background-color: #EEE8E8;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    margin-bottom: 20px;
+}
+
+.title {
+    background-color: #115B84;
+    color: #fff;
+    padding: 10px 10px 0 10px;
+}
+
+img{
+    max-width: 100%;
+    
+}
+
+.img{
+    width: 300px;
+    filter: drop-shadow(0px 0px 4px #4444dd);
+
+}
+
+.title-icon{
+    color: #115B84;
+}
+
+/* Add background image for navbar-toggler-icon if it's missing */
+.navbar-toggler-icon {
+    color: white;
+}
+
+.hero-p{
+    text-align: justify;
+  text-justify: inter-word;
+}
+
+
+
+

@@ -1,0 +1,107 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+/* Navbar */
+.nav-body{
+    background-color: #115B84;
+}
+
+.navbar ul li a{
+    color: #fff;
+
+}
+
+/* About Header */
+.header{
+    background-color: #EEE8E8;
+    
+}
+
+/* About Section with Separated Paragraphs */
+.about {
+    padding: 20px;
+    text-align: justify;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.about .box p {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 1rem;
+}
+
+/* About Section Box Styling */
+.box {
+    width: 800px;
+    height: auto; 
+    background-color: #f1f1f1;
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left; 
+}
+
+.box p {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: justify; /* Justify text */
+}
+
+/* Scope and Objectives Section Styling */
+.scope, .objectives {
+    margin: 20px auto; 
+    max-width: 800px;  
+    text-align: left;  
+}
+
+.scope h2, .objectives h2 {
+    color: #1b1b1c;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    text-align: left; 
+}
+
+.scope p, .objectives ul {
+    margin: 20px 0;
+    color: #333;
+    text-align: left; 
+}
+
+.objectives ul {
+    padding-left: 20px; 
+    list-style-position: inside; 
+}
+
+.objectives ul li {
+    list-style-type: disc; /* Set bullet points */
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+
+
